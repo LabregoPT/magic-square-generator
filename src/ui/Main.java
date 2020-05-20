@@ -20,7 +20,6 @@ public class Main extends Application {
 		stage.setTitle("Magic Square Generator");
 		stage.setScene(scene);
 		stage.show();
-		
 	}
 	
 	/**
