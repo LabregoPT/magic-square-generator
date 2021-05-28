@@ -226,4 +226,13 @@ public class MagicSquare {
 	public int getSize() {
 		return size;
 	}
+
+
+	/**
+	*This method does nothing
+	*/
+	public void doNothing(){
+	}
+
+
 }
