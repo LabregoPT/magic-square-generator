@@ -7,7 +7,7 @@ import javafx.stage.Stage;
 /**
  * Main Class for the MagicSquareGenerator app
  * @author Jhon Edward Mora - Universidad ICESI - A00355710
- * @version 1.0 - 2019
+ * @version 1.1 - 2023
  */
 public class Main extends Application {
 	
